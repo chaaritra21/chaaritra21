@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **C++, HTML, Mysql, Microsoft Powerapps**
+- 🌱 I’m currently learning **Python, Mysql, Microsoft Powerapps**
 
-- 💬 Ask me about **Data Analysis, App development**
+- 💬 Ask me about **Data Analytics, App development**
 
 - 📫 How to reach me **jaincharitra318@gmail.com**
 
