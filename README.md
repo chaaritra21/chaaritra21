@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Chaaritra Jain</h1>
 <h3 align="center">A passionate Computer Science Major Student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaaritra21&label=Profile%20views&color=0e75b6&style=flat" alt="chaaritra21" /> </p>
-
 - 🔭 I’m currently working on **Track Back**
 
 - 🌱 I’m currently learning **Python, Mysql, Microsoft Powerapps**
