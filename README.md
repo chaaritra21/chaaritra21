@@ -1,5 +1,5 @@
 ![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif)
-<a height="30" width="40"  </a>
+
 <h1 align="center">Hi 👋, I'm Chaaritra Jain</h1>
 <h3 align="center">A passionate Computer Science Major Student from India</h3>
 
