@@ -1,4 +1,5 @@
-![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif)
+<a ![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif)
+height="30" width="40" /></a>
 <h1 align="center">Hi 👋, I'm Chaaritra Jain</h1>
 <h3 align="center">A passionate Computer Science Major Student from India</h3>
 
@@ -11,7 +12,6 @@
 - 📫 How to reach me **jaincharitra318@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/chaaritra_21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chaaritra_21/" height="30" width="40" /></a>
 <a href="https://discord.gg/chaaritra_21#1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="chaaritra_21#1121" height="30" width="40" /></a>
