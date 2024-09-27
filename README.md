@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chaaritra Jain</h1>
 <h3 align="center">A passionate Computer Science Major Student from India</h3>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **Data Analytics and Visualization**
 
 - 🌱 I’m currently learning **Python, Mysql, Microsoft Powerapps**
 
