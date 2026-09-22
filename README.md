@@ -1,60 +1,171 @@
-<!-- ===================== HERO ===================== -->
+<!-- ========================================================= -->
+<!--                    CHAARITRA JAIN                         -->
+<!--              CAMPAIGN DATA CONTROL ROOM                   -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Chaaritra+Jain+%F0%9F%91%8B;Campaign+Engineer+%7C+Campaign+Data+Analyst;Data+Analytics+%7C+Automation+%7C+AI;Turning+Campaign+Data+into+Actionable+Insights" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CHAARITRA%20JAIN&fontAlign=50&fontAlignY=38&desc=Campaign%20Engineer%20%7C%20Campaign%20Data%20Analyst&descAlign=50&descAlignY=62&fontSize=42&descSize=18&animation=fadeIn&color=gradient"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=800&lines=DATA+%3E+AUDIENCE+%3E+AUTOMATION+%3E+AI;Turning+messy+data+into+usable+solutions.;Building+smarter+campaign+workflows.;Analytics+with+an+automation+mindset." />
 
 <br><br>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:chaaritrajain2101@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_GITHUB_URL">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/ROLE-CAMPAIGN%20ENGINEER-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-CAMPAIGN%20DATA-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-7C3AED?style=flat-square"/>
 
 </div>
 
 ---
 
-<!-- ===================== HERO MESSAGE ===================== -->
-
-<div align="center">
-
-## ⚡ Data. Campaigns. Automation. AI.
-
-### I build solutions that transform raw data into insights, audiences and automated workflows.
-
-</div>
-
-<br>
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="25%">
 
-### 🎯
-**Campaign Data**
+<td width="55%" valign="top">
 
-Audience Segmentation  
-Campaign Targeting  
-Lead Data
+## `$ whoami`
+
+```text
+Chaaritra Jain
+
+Campaign Engineer
+Campaign Data Analyst
+
+WPP Production
+└── T-Mobile Account
+
+Previously
+└── Microsoft Account
+
+Experience
+└── 2+ Years
+
+Background
+└── Computer Science
+```
 
 </td>
 
-<td align="center" width="25%">
+<td width="45%" valign="top">
 
-### 📊
-**Analytics**
+## `$ current_mission`
+
+```text
+[ DATA ]
+   ↓
+[ SEGMENT ]
+   ↓
+[ TARGET ]
+   ↓
+[ AUTOMATE ]
+   ↓
+[ INSIGHT ]
+```
+
+**Working at the intersection of**
+
+`Campaign Data`  
+`Audience Analytics`  
+`Automation`  
+`Business Intelligence`  
+`AI`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ◉ THE INTRO
+
+I’m a **Data Analyst / Campaign Engineer** who likes working where **data meets execution**.
+
+Today, I work at **WPP Production on the T-Mobile account**, supporting campaign-data workflows, audience segmentation, lead targeting, validation and operational processes.
+
+Before moving to T-Mobile, I worked on the **Microsoft account**, where I built analytics and automation solutions around **SQL, Power BI, Power Automate and Copilot Studio**.
+
+My approach is simple:
+
+> **Find the data → understand the problem → remove the repetitive work → automate what makes sense.**
+
+I'm particularly interested in the space where:
+
+`Data Analytics` + `Marketing Technology` + `Automation` + `AI`
+
+come together.
+
+---
+
+# ▓ MY DATA PIPELINE
+
+<div align="center">
+
+```text
+             ┌───────────────┐
+             │   RAW DATA    │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   VALIDATE    │
+             │  & TRANSFORM  │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   AUDIENCE    │
+             │  SEGMENTATION │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   CAMPAIGN    │
+             │   EXECUTION   │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   AUTOMATE    │
+             │   & MONITOR   │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   INSIGHTS    │
+             └───────────────┘
+```
+
+</div>
+
+---
+
+# ◈ WHAT I ACTUALLY WORK ON
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🎯
+
+**AUDIENCE**
+
+Segmentation  
+Targeting  
+Lead Data  
+Campaign Support
+
+</td>
+
+<td width="25%" align="center">
+
+### 🧮
+
+**ANALYTICS**
 
 SQL  
 Python  
@@ -63,25 +174,29 @@ Excel
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### ⚙️
-**Automation**
+
+**AUTOMATION**
 
 Power Automate  
-Copilot Studio  
-Workflow Automation
+Workflow Design  
+Data Validation  
+Process Improvement
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### 🤖
-**AI Solutions**
+### 🧠
 
+**AI**
+
+Copilot Studio  
 AI Agents  
 Rule-Based Logic  
-Process Optimization
+Intelligent Workflows
 
 </td>
 </tr>
@@ -89,100 +204,163 @@ Process Optimization
 
 ---
 
-# 👨‍💻 About Me
+# `BUILD_LOG`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                        CHAARITRA JAIN                        │
-├──────────────────────────────────────────────────────────────┤
-│  Role       : Campaign Engineer / Campaign Data Analyst     │
-│  Company    : WPP Production                                │
-│  Account    : T-Mobile                                       │
-│  Experience : 2+ Years                                      │
-│  Background : Computer Science                               │
-│  Focus      : Data | Campaigns | Automation | AI            │
-└──────────────────────────────────────────────────────────────┘
-```
+### 01 — Delayed Task Automation
 
-I'm a **Data Analyst and Campaign Engineer** working at **WPP Production**, currently supporting the **T-Mobile account**.
+```yaml
+stack:
+  - Microsoft Copilot Studio
+  - Power Automate
 
-My work sits at the intersection of **campaign data, audience targeting, analytics, automation and AI-powered solutions**.
+goal:
+  Identify delayed tasks
+  Automate actions and notifications
+  Reduce manual intervention
 
-Previously, I worked on the **Microsoft account**, where I developed analytics and automation solutions using the Microsoft Power Platform.
-
-I enjoy finding repetitive processes, understanding the data behind them, and turning them into **scalable automated solutions**.
-
----
-
-# 🚀 What I'm Working On
-
-```text
-DATA
-  │
-  ├── SQL Reporting
-  ├── Data Extraction
-  ├── Data Validation
-  └── Data Transformation
-          │
-          ▼
-AUDIENCE
-  │
-  ├── Audience Segmentation
-  ├── Lead Targeting
-  └── Campaign Data
-          │
-          ▼
-AUTOMATION
-  │
-  ├── Power Automate
-  ├── Workflow Automation
-  └── Process Optimization
-          │
-          ▼
-AI
-  │
-  ├── Copilot Studio
-  ├── AI Agents
-  └── Intelligent Workflows
+approach:
+  Rule-based logic
+  Event-driven triggers
+  Automated workflows
 ```
 
 ---
 
-# 💼 Career Journey
+### 02 — Campaign Data & Audience Analytics
+
+```yaml
+stack:
+  - SQL
+  - Python
+  - Excel
+  - Power BI
+
+focus:
+  Data extraction
+  Data validation
+  Data transformation
+  Audience segmentation
+  Lead targeting
+  Reporting
+```
+
+---
+
+### 03 — SAP × Power Platform
+
+```yaml
+stack:
+  - Power Automate
+  - Power Apps
+  - SAP
+
+focus:
+  Workflow integration
+  Process automation
+  Operational efficiency
+```
+
+---
+
+### 04 — Football Player Price Prediction
+
+```yaml
+stack:
+  - Python
+  - Machine Learning
+
+inputs:
+  Performance
+  Age
+  Position
+  Transfer history
+
+output:
+  Predicted player market value
+```
+
+---
+
+# ⌘ TOOLBOX
+
+Instead of a giant wall of icons, here is how I think about my stack:
+
+### DATA
+
+`SQL` `MySQL` `Snowflake` `Python` `MongoDB` `NoSQL`
+
+### VISUALIZE
+
+`Power BI` `Tableau` `Qlik Sense` `Excel`
+
+### AUTOMATE
+
+`Power Automate` `Power Apps` `Copilot Studio`
+
+### CLOUD / ENGINEERING
+
+`Azure` `AWS` `Git` `SAS` `C`
+
+---
+
+# ◇ CAREER SIGNAL
+
+```text
+2023
+│
+├── Power Apps Intern
+│   Celebal Technologies
+│
+│
+2024
+│
+├── Data Analyst Consultant
+│   Rubixe
+│
+│
+2025
+│
+└── Data Analyst
+    WPP Production
+    │
+    └── Microsoft Account
+          ↓
+        T-Mobile Account
+          │
+          └── Campaign Engineer
+              (Campaign Data Analyst)
+```
+
+---
+
+# ⚡ HOW I LIKE TO BUILD
 
 <table>
 <tr>
-<td width="180"><b>2025 → Present</b></td>
-<td>
+<td align="center" width="33%">
 
-### 🎯 WPP Production
-**Campaign Engineer / Campaign Data Analyst**
+### 01
+## Understand
 
-Supporting the **T-Mobile account** with campaign data, audience segmentation, lead targeting, data validation, reporting and automation.
-
-</td>
-</tr>
-
-<tr>
-<td><b>2024</b></td>
-<td>
-
-### 📊 Rubixe
-**Data Analyst Consultant**
-
-Worked across SQL, Python, Excel and Power BI for analytics, reporting, automation and business insights.
+Don't automate a process you don't understand.
 
 </td>
-</tr>
 
-<tr>
-<td><b>2023</b></td>
-<td>
+<td align="center" width="33%">
 
-### ⚡ Celebal Technologies
-**Power Apps Intern**
+### 02
+## Simplify
 
-Worked with Power Apps, Power Automate and Power BI as part of the Microsoft Power Platform ecosystem.
+Remove unnecessary steps before adding technology.
+
+</td>
+
+<td align="center" width="33%">
+
+### 03
+## Automate
+
+Let systems handle repetitive work.
 
 </td>
 </tr>
@@ -190,204 +368,66 @@ Worked with Power Apps, Power Automate and Power BI as part of the Microsoft Pow
 
 ---
 
-# 🧠 Tech Stack
-
-### 📊 Analytics & BI
-
-<p>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### ⚙️ Automation & Microsoft Power Platform
-
-<p>
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Copilot_Studio-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
-
-### 🗄️ Data Platforms
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/NoSQL-444444?style=for-the-badge"/>
-</p>
-
-### 📈 Visualization
-
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qlik_Sense-009848?style=for-the-badge&logo=qlik&logoColor=white"/>
-</p>
-
-### 🛠️ Other Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/SAS-0066B3?style=for-the-badge&logo=sas&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
-
----
-
-# 🔥 Featured Projects
-
-## 🤖 Delayed Task Automation
-
-**Microsoft Copilot Studio + Power Automate**
-
-> An automation solution designed to identify delayed tasks, trigger workflows and reduce manual intervention.
-
-**Core:**  
-`Copilot Studio` → `Power Automate` → `Rule-Based Logic` → `Notifications`
-
----
-
-## 🎯 Campaign & Audience Analytics
-
-**SQL + Python + Power BI**
-
-> Analytics workflows focused on extracting, validating and transforming campaign data to support audience segmentation, targeting and reporting.
-
-**Core:**  
-`SQL` → `Data Validation` → `Segmentation` → `Insights`
-
----
-
-## 🔗 SAP × Power Platform Integration
-
-**Power Automate + Power Apps**
-
-> Integrated SAP with Microsoft Power Platform to streamline operational workflows and reduce repetitive manual processes.
-
-**Core:**  
-`SAP` → `Power Automate` → `Power Apps` → `Automated Workflow`
-
----
-
-## ⚽ Football Player Price Prediction
-
-**Python + Machine Learning**
-
-> A machine learning project focused on predicting football player market values using performance, age, position and transfer-history data.
-
-**Core:**  
-`Data` → `Features` → `ML Model` → `Prediction`
-
----
-
-# 📌 Recruiter Snapshot
-
-<table align="center">
-
-<tr>
-<td align="center"><b>2+</b><br/>Years Experience</td>
-<td align="center"><b>SQL</b><br/>Data & Reporting</td>
-<td align="center"><b>Power BI</b><br/>Business Intelligence</td>
-<td align="center"><b>Automation</b><br/>Power Platform</td>
-<td align="center"><b>AI</b><br/>Copilot Studio</td>
-</tr>
-
-</table>
-
-### Areas I work across
-
-`Campaign Analytics`  
-`Audience Segmentation`  
-`Marketing Data`  
-`Business Intelligence`  
-`Data Automation`  
-`Process Automation`  
-`AI Agents`  
-`Data Validation`  
-`Reporting`
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🎓 Education & Certifications
-
-### 🎓 Bachelor of Technology — Computer Science
-**Manipal University Jaipur | 2020 – 2024**
-
-CGPA: **8.20 / 10**
-
-### 🏆 Certifications
-
-`Certified Data Analyst – IABAC`  
-`Oracle Academy – Database Foundations`  
-`Cisco – Introduction to Networks`  
-`Cloud Foundations – AWS`  
-`Business Intelligence – Udemy`
-
----
-
-# 🌱 Currently Exploring
+# `CURRENTLY_EXPLORING`
 
 ```text
-AI Agents             █████████████████░░░
-Advanced Analytics    ████████████████░░░░
-Data Engineering      ███████████████░░░░░
-Marketing Analytics   █████████████████░░░
-Cloud Data            ██████████████░░░░░░
+AI AGENTS             █████████████████░░
+DATA ENGINEERING      ███████████████░░░░
+CAMPAIGN ANALYTICS    █████████████████░░
+MARKETING TECHNOLOGY  ████████████████░░░
+CLOUD DATA            ██████████████░░░░░
 ```
 
-I'm currently exploring how **AI + automation + analytics** can be combined to build smarter business and campaign workflows.
+I'm exploring how **AI agents, data engineering and automation** can improve real-world analytics and campaign operations.
 
 ---
 
-# 🎯 My Professional Philosophy
+# 🎓 FOUNDATION
 
-<div align="center">
+**B.Tech — Computer Science**  
+Manipal University Jaipur  
+`2020 → 2024`  |  `CGPA: 8.20 / 10`
 
-### "Don't just analyze the data."
+### Certifications
 
-### **Understand it. Automate it. Improve it.**
-
-</div>
+`IABAC Certified Data Analyst`  
+`Oracle Academy — Database Foundations`  
+`Cisco — Introduction to Networks`  
+`AWS — Cloud Foundations`  
+`Business Intelligence — Udemy`
 
 ---
 
-# 🤝 Let's Connect
+# 🧩 OUTSIDE THE WORK
 
-I'm interested in conversations around:
+```text
+BADMINTON  ×  CRICKET  ×  TRAVEL  ×  MUSIC
+                     +
+              CURIOSITY TO BUILD
+```
 
-**Data Analytics • Campaign Analytics • Marketing Technology • Automation • AI Agents • Business Intelligence • Data Engineering**
+I enjoy travelling, playing badminton and cricket, discovering new music, and continuously experimenting with new technology.
 
-<br>
+---
 
 <div align="center">
 
-### 💬 Always open to interesting projects, ideas and collaborations.
+## `DATA → DECISIONS → AUTOMATION`
+
+### Building things that make the next process easier.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:chaaritrajain2101@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
 
 </div>
