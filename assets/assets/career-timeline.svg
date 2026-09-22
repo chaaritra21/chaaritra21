@@ -1,1 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFB800"/>
+      <stop offset="50%" stop-color="#B026FF"/>
+      <stop offset="100%" stop-color="#FF2E9F"/>
+    </linearGradient>
+    <filter id="g2" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
 
+  <rect width="1200" height="340" fill="#050414"/>
+  <text x="600" y="30" text-anchor="middle" font-family="monospace" font-size="16" fill="#8892B0" letter-spacing="3">DEPLOYMENT TIMELINE</text>
+
+  <line x1="100" y1="220" x2="1100" y2="220" stroke="url(#lineGrad)" stroke-width="3"/>
+  <circle r="7" fill="#ffffff" filter="url(#g2)">
+    <animateMotion path="M100,220 L1100,220" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- node 1: 2023 -->
+  <line x1="220" y1="220" x2="220" y2="150" stroke="#FFB800" stroke-width="1.5"/>
+  <circle cx="220" cy="220" r="9" fill="#FFB800" filter="url(#g2)"/>
+  <rect x="80" y="40" width="280" height="110" rx="14" fill="#ffffff" opacity="0.04" stroke="#FFB800" stroke-opacity="0.5"/>
+  <text x="220" y="68" text-anchor="middle" font-family="monospace" font-size="13" fill="#FFB800" letter-spacing="2">2023</text>
+  <text x="220" y="95" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" font-weight="700" fill="#ffffff">Celebal Technologies</text>
+  <text x="220" y="118" text-anchor="middle" font-family="monospace" font-size="12" fill="#B8C0E0">Power Apps Intern</text>
+  <text x="220" y="136" text-anchor="middle" font-family="monospace" font-size="10" fill="#6B7394">Power Apps &#183; Automate &#183; BI</text>
+
+  <!-- node 2: 2024 -->
+  <line x1="600" y1="220" x2="600" y2="150" stroke="#B026FF" stroke-width="1.5"/>
+  <circle cx="600" cy="220" r="9" fill="#B026FF" filter="url(#g2)"/>
+  <rect x="460" y="40" width="280" height="110" rx="14" fill="#ffffff" opacity="0.04" stroke="#B026FF" stroke-opacity="0.5"/>
+  <text x="600" y="68" text-anchor="middle" font-family="monospace" font-size="13" fill="#B026FF" letter-spacing="2">2024</text>
+  <text x="600" y="95" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" font-weight="700" fill="#ffffff">Rubixe</text>
+  <text x="600" y="118" text-anchor="middle" font-family="monospace" font-size="12" fill="#B8C0E0">Data Analyst Consultant</text>
+  <text x="600" y="136" text-anchor="middle" font-family="monospace" font-size="10" fill="#6B7394">SQL &#183; Python &#183; Power BI</text>
+
+  <!-- node 3: 2025-present -->
+  <line x1="980" y1="220" x2="980" y2="150" stroke="#FF2E9F" stroke-width="1.5"/>
+  <circle cx="980" cy="220" r="11" fill="#FF2E9F" filter="url(#g2)">
+    <animate attributeName="r" values="9;13;9" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="840" y="40" width="280" height="110" rx="14" fill="#ffffff" opacity="0.05" stroke="#FF2E9F" stroke-opacity="0.7"/>
+  <text x="980" y="66" text-anchor="middle" font-family="monospace" font-size="13" fill="#FF2E9F" letter-spacing="2">2025 &#8594; NOW</text>
+  <text x="980" y="93" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" font-weight="700" fill="#ffffff">WPP Production</text>
+  <text x="980" y="115" text-anchor="middle" font-family="monospace" font-size="12" fill="#B8C0E0">Campaign Engineer &#183; T-Mobile</text>
+  <circle cx="900" cy="132" r="3" fill="#39FF14"><animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/></circle>
+  <text x="910" y="136" font-family="monospace" font-size="10" fill="#39FF14">LIVE</text>
+
+  <text x="1140" y="225" text-anchor="middle" font-family="monospace" font-size="20" fill="#FF2E9F">&#8594;</text>
+</svg>
