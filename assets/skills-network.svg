@@ -1,1 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" width="100%">
+  <defs>
+    <radialGradient id="hubGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="40%" stop-color="#00F5FF"/>
+      <stop offset="100%" stop-color="#050414" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="g" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
 
+  <rect width="1200" height="620" fill="#050414"/>
+  <text x="600" y="45" text-anchor="middle" font-family="monospace" font-size="16" fill="#8892B0" letter-spacing="3">SKILL CONSTELLATION</text>
+
+  <!-- hub -->
+  <circle cx="600" cy="310" r="70" fill="url(#hubGlow)" opacity="0.5">
+    <animate attributeName="r" values="65;75;65" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="310" r="34" fill="#0B0821" stroke="#00F5FF" stroke-width="2" filter="url(#g)"/>
+  <text x="600" y="316" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="18" fill="#00F5FF">CJ</text>
+
+  <!-- hub to category lines -->
+  <g stroke-width="1.4" fill="none">
+    <line x1="600" y1="310" x2="600" y2="90" stroke="#00F5FF" opacity="0.5"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="3s" repeatCount="indefinite"/></line>
+    <line x1="600" y1="310" x2="830" y2="240" stroke="#FF2E9F" opacity="0.5"><animate attributeName="opacity" values="0.7;0.2;0.7" dur="3.4s" repeatCount="indefinite"/></line>
+    <line x1="600" y1="310" x2="750" y2="500" stroke="#B026FF" opacity="0.5"><animate attributeName="opacity" values="0.2;0.6;0.2" dur="2.6s" repeatCount="indefinite"/></line>
+    <line x1="600" y1="310" x2="450" y2="500" stroke="#39FF14" opacity="0.5"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="3.8s" repeatCount="indefinite"/></line>
+    <line x1="600" y1="310" x2="370" y2="240" stroke="#FFB800" opacity="0.5"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="3.1s" repeatCount="indefinite"/></line>
+  </g>
+
+  <!-- category node: Analytics & BI (top, cyan) -->
+  <circle cx="600" cy="90" r="10" fill="#00F5FF" filter="url(#g)"/>
+  <text x="600" y="65" text-anchor="middle" font-family="monospace" font-size="13" fill="#00F5FF" letter-spacing="1">ANALYTICS &amp; BI</text>
+  <g stroke="#00F5FF" stroke-width="1" opacity="0.5">
+    <line x1="600" y1="90" x2="470" y2="35"/><line x1="600" y1="90" x2="600" y2="35"/><line x1="600" y1="90" x2="730" y2="35"/>
+  </g>
+  <g font-family="monospace" font-size="12" fill="#050414">
+    <rect x="425" y="18" rx="12" width="90" height="26" fill="#00F5FF"/><text x="470" y="35" text-anchor="middle">SQL</text>
+    <rect x="558" y="18" rx="12" width="84" height="26" fill="#00F5FF"/><text x="600" y="35" text-anchor="middle">PYTHON</text>
+    <rect x="675" y="18" rx="12" width="110" height="26" fill="#00F5FF"/><text x="730" y="35" text-anchor="middle">POWER BI</text>
+  </g>
+
+  <!-- category node: Automation & Agents (right, magenta) -->
+  <circle cx="830" cy="240" r="10" fill="#FF2E9F" filter="url(#g)"/>
+  <text x="855" y="220" font-family="monospace" font-size="13" fill="#FF2E9F" letter-spacing="1">AUTOMATION &amp; AGENTS</text>
+  <g stroke="#FF2E9F" stroke-width="1" opacity="0.5">
+    <line x1="830" y1="240" x2="1090" y2="140"/><line x1="830" y1="240" x2="1090" y2="220"/><line x1="830" y1="240" x2="1090" y2="300"/>
+  </g>
+  <g font-family="monospace" font-size="11" fill="#050414">
+    <rect x="1000" y="127" rx="12" width="180" height="26" fill="#FF2E9F"/><text x="1090" y="144" text-anchor="middle">POWER AUTOMATE</text>
+    <rect x="1000" y="207" rx="12" width="180" height="26" fill="#FF2E9F"/><text x="1090" y="224" text-anchor="middle">COPILOT STUDIO</text>
+    <rect x="1000" y="287" rx="12" width="180" height="26" fill="#FF2E9F"/><text x="1090" y="304" text-anchor="middle">POWER APPS</text>
+  </g>
+
+  <!-- category node: Visualization (bottom-right, purple) -->
+  <circle cx="750" cy="500" r="10" fill="#B026FF" filter="url(#g)"/>
+  <text x="750" y="530" text-anchor="middle" font-family="monospace" font-size="13" fill="#B026FF" letter-spacing="1">VISUALIZATION</text>
+  <g stroke="#B026FF" stroke-width="1" opacity="0.5">
+    <line x1="750" y1="500" x2="680" y2="562"/><line x1="750" y1="500" x2="790" y2="562"/><line x1="750" y1="500" x2="900" y2="562"/>
+  </g>
+  <g font-family="monospace" font-size="11" fill="#050414">
+    <rect x="625" y="549" rx="12" width="110" height="26" fill="#B026FF"/><text x="680" y="566" text-anchor="middle">TABLEAU</text>
+    <rect x="745" y="549" rx="12" width="130" height="26" fill="#B026FF"/><text x="810" y="566" text-anchor="middle">QLIK SENSE</text>
+    <rect x="855" y="549" rx="12" width="90" height="26" fill="#B026FF"/><text x="900" y="566" text-anchor="middle">EXCEL</text>
+  </g>
+
+  <!-- category node: Data Platforms (bottom-left, green) -->
+  <circle cx="450" cy="500" r="10" fill="#39FF14" filter="url(#g)"/>
+  <text x="450" y="530" text-anchor="middle" font-family="monospace" font-size="13" fill="#39FF14" letter-spacing="1">DATA PLATFORMS</text>
+  <g stroke="#39FF14" stroke-width="1" opacity="0.5">
+    <line x1="450" y1="500" x2="300" y2="562"/><line x1="450" y1="500" x2="410" y2="562"/><line x1="450" y1="500" x2="520" y2="562"/>
+  </g>
+  <g font-family="monospace" font-size="11" fill="#050414">
+    <rect x="245" y="549" rx="12" width="110" height="26" fill="#39FF14"/><text x="300" y="566" text-anchor="middle">MYSQL</text>
+    <rect x="355" y="549" rx="12" width="110" height="26" fill="#39FF14"/><text x="410" y="566" text-anchor="middle">SNOWFLAKE</text>
+    <rect x="465" y="549" rx="12" width="110" height="26" fill="#39FF14"/><text x="520" y="566" text-anchor="middle">MONGODB</text>
+  </g>
+
+  <!-- category node: Core Tools (left, orange) -->
+  <circle cx="370" cy="240" r="10" fill="#FFB800" filter="url(#g)"/>
+  <text x="345" y="220" text-anchor="end" font-family="monospace" font-size="13" fill="#FFB800" letter-spacing="1">CORE TOOLS</text>
+  <g stroke="#FFB800" stroke-width="1" opacity="0.5">
+    <line x1="370" y1="240" x2="110" y2="140"/><line x1="370" y1="240" x2="110" y2="220"/><line x1="370" y1="240" x2="110" y2="300"/>
+  </g>
+  <g font-family="monospace" font-size="11" fill="#050414">
+    <rect x="55" y="127" rx="12" width="90" height="26" fill="#FFB800"/><text x="100" y="144" text-anchor="middle">GIT</text>
+    <rect x="55" y="207" rx="12" width="90" height="26" fill="#FFB800"/><text x="100" y="224" text-anchor="middle">SAS</text>
+    <rect x="55" y="287" rx="12" width="90" height="26" fill="#FFB800"/><text x="100" y="304" text-anchor="middle">C</text>
+  </g>
+</svg>
