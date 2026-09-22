@@ -1,1 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B0F2E"/>
+      <stop offset="100%" stop-color="#050414"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00F5FF" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#00F5FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="g3" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
 
+  <rect width="1200" height="240" fill="url(#bgGrad2)"/>
+  <rect x="-300" y="0" width="300" height="240" fill="url(#sweep)">
+    <animate attributeName="x" values="-300;1200" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="600" y="115" text-anchor="middle" font-family="system-ui,sans-serif" font-size="36" font-weight="700" fill="#00F5FF" filter="url(#g3)" letter-spacing="1">
+    LET'S BUILD SOMETHING INTELLIGENT
+  </text>
+  <text x="600" y="150" text-anchor="middle" font-family="monospace" font-size="14" fill="#B8C0E0" letter-spacing="1">
+    Open to conversations on data &#183; automation &#183; AI systems
+  </text>
+
+  <circle cx="600" cy="185" r="3" fill="#39FF14"><animate attributeName="opacity" values="1;0.2;1" dur="1.3s" repeatCount="indefinite"/></circle>
+</svg>
