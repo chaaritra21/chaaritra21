@@ -1,1 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050414"/>
+      <stop offset="50%" stop-color="#12102B"/>
+      <stop offset="100%" stop-color="#1B0F2E"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5FF"/>
+      <stop offset="100%" stop-color="#B026FF"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40" fill="none" stroke="#00F5FF" stroke-width="0.3" opacity="0.15"/>
+    </pattern>
+  </defs>
 
+  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <path d="M30 20 L30 50 M30 20 L60 20" stroke="#00F5FF" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M1170 20 L1170 50 M1170 20 L1140 20" stroke="#00F5FF" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M30 300 L30 270 M30 300 L60 300" stroke="#B026FF" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M1170 300 L1170 270 M1170 300 L1140 300" stroke="#B026FF" stroke-width="2" fill="none" opacity="0.7"/>
+
+  <circle cx="60" cy="60" r="5" fill="#39FF14">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="75" y="64" font-family="monospace" font-size="13" fill="#39FF14" letter-spacing="2">SYSTEM ONLINE</text>
+  <text x="1140" y="64" font-family="monospace" font-size="12" fill="#8892B0" text-anchor="end" letter-spacing="1">v2.026 // AI-NATIVE</text>
+
+  <g stroke="#B026FF" stroke-width="1" opacity="0.5">
+    <line x1="950" y1="90" x2="1050" y2="140"><animate attributeName="opacity" values="0.1;0.6;0.1" dur="3s" repeatCount="indefinite"/></line>
+    <line x1="1050" y1="140" x2="1000" y2="220"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="4s" repeatCount="indefinite"/></line>
+    <line x1="1000" y1="220" x2="900" y2="180"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="2.5s" repeatCount="indefinite"/></line>
+    <line x1="900" y1="180" x2="950" y2="90"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="3.5s" repeatCount="indefinite"/></line>
+  </g>
+  <circle cx="950" cy="90" r="4" fill="#00F5FF" filter="url(#glow)"/>
+  <circle cx="1050" cy="140" r="6" fill="#B026FF" filter="url(#glow)"/>
+  <circle cx="1000" cy="220" r="5" fill="#00F5FF" filter="url(#glow)"/>
+  <circle cx="900" cy="180" r="4" fill="#FF2E9F" filter="url(#glow)"/>
+
+  <rect x="60" y="110" width="720" height="150" rx="18" fill="#ffffff" opacity="0.03" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1"/>
+
+  <text x="90" y="185" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="54" font-weight="700" fill="url(#textGrad)" filter="url(#glow)" letter-spacing="1">
+    CHAARITRA JAIN
+    <animate attributeName="opacity" values="1;0.88;1" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="92" y="220" font-family="monospace" font-size="17" fill="#E6E6F0" letter-spacing="1">Campaign Engineer &#183; Campaign Data Analyst &#183; AI Systems</text>
+  <rect x="92" y="228" width="10" height="18" fill="#00F5FF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="monospace" font-size="12">
+    <rect x="92" y="245" rx="14" ry="14" width="150" height="28" fill="#00F5FF"/>
+    <text x="167" y="263" text-anchor="middle" fill="#050414">WPP PRODUCTION</text>
+    <rect x="252" y="245" rx="14" ry="14" width="110" height="28" fill="#B026FF"/>
+    <text x="307" y="263" text-anchor="middle" fill="#050414">T-MOBILE</text>
+    <rect x="372" y="245" rx="14" ry="14" width="130" height="28" fill="#FF2E9F"/>
+    <text x="437" y="263" text-anchor="middle" fill="#050414">2+ YEARS</text>
+  </g>
+</svg>
